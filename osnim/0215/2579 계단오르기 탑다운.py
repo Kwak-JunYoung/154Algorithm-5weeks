@@ -9,5 +9,4 @@ for i in range(n):
     a[i] = int(input().rstrip())
 
 def sol(n):
-
-print(sol(n-1))
+    print(sol(n-1))
